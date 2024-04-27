@@ -7,4 +7,3 @@ void main() async {
   print('Response status: ${response.statusCode}');
   print('Response body: ${response.body}');
 }
-
